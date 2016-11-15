@@ -1,0 +1,7 @@
+name: AdminGUI
+version: 1.0.0
+author: Craysser
+main: me.sn.AdminGUI
+commands:
+  admin:
+     aliases: [ag]
